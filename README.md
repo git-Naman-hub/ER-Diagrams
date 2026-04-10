@@ -14,6 +14,7 @@ The system is built to manage multiple buildings, each containing multiple eleva
 
 
 🏢 Buildings
+
 Represents each infrastructure unit
 
 One building contains multiple floors and shafts
