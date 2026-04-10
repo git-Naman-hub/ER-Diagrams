@@ -11,14 +11,21 @@ High-rise residential complexes
 The system is built to manage multiple buildings, each containing multiple elevators operating across many floors, handling thousands of ride requests efficiently.
 
 🧩 Entities & Description
+
 🏢 Buildings
 Represents each infrastructure unit
+
 One building contains multiple floors and shafts
+
 🧱 Floors
 Belong to a building
+
 Identified by floor number
+
 Used for generating ride requests
+
 🛗 Elevator Shafts
+
 Physical vertical structures inside buildings
 Each shaft contains exactly one elevator
 🛗 Elevators
